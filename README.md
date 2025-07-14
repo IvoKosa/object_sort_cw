@@ -21,9 +21,9 @@ This was a much more complex task which took in no information. The entire board
 
 This code will need to be compiled into a valid ROS-noetic package on Ubuntu 20.04. Create a new ROS workspace, copy/ paste the packages found in the src folder into the ROS workspace src and compile using 
 
-'catkin build', 
+'catkin build', then 
 
-then 'source devel/setup.bash'. 
+'source devel/setup.bash'. 
 
 The code code can be executed by calling: 
 
