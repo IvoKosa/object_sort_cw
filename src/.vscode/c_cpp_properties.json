@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ivo/Documents/testing/devel/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/cw1_team_x/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/obj_sort_node/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/labs/moveit_solution/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/labs/moveit_tutorial/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/labs/obj_rec_tutorial/include/**",
+        "/home/ivo/Documents/testing/src/obj_sort/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/labs/pcl_demo/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/labs/pcl_tutorial/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/realsense_gazebo_plugin/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/labs/sample/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/labs/style_solution/include/**",
+        "/home/ivo/Documents/comp0250_s25_labs/src/labs/style_tutorial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
