@@ -19,6 +19,15 @@ This was a much more complex task which took in no information. The entire board
 
 # Running
 
-This code will need to be compiled into a valid ROS-noetic package on Ubuntu 20.04. Create a new ROS workspace, copy/ paste the packages found in the src folder into the ROS workspace src and compile using 'catkin build', then 'source devel/setup.bash'. 
-The code code can be executed by calling: 'roslaunch obj_sort run_solution.launch' in one terminal, and 'rosservice call /task X' in another where X corresponds to 1, 2 or 3.
+This code will need to be compiled into a valid ROS-noetic package on Ubuntu 20.04. Create a new ROS workspace, copy/ paste the packages found in the src folder into the ROS workspace src and compile using 
+
+'catkin build', 
+
+then 'source devel/setup.bash'. 
+
+The code code can be executed by calling: 
+
+'roslaunch obj_sort run_solution.launch' in one terminal, and 
+
+'rosservice call /task X' in another where X corresponds to 1, 2 or 3.
 
