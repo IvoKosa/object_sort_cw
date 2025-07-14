@@ -1,6 +1,6 @@
 # COMP0250_CW2
 
-This project was submitted as part of the Robotics and AI MSc at UCL. The overall framework within the src folder was provided by the university. My contributions can be found in the following folders, as well as the modification of miscellanious files such as the CMakeLists.txt for the inclusion of various libraries:
+This project was submitted as part of the Robotics and AI MSc at UCL. The overall framework within the src folder was provided by the university. My contributions can be found in the following folders, as well as the modification of miscellaneous files such as the CMakeLists.txt for the inclusion of various libraries:
 
 src/obj_sort/src
 
